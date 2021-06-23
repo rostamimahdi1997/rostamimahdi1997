@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rostamimahdi1997
+- 👀 I’m interested in linux,python
+- 🌱 I’m currently learning thoses
+- 💞️ I’m looking to collaborate on html,python,linux
