@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rostamimahdi1997
-- 👀 I’m interested in Linux,Python
+- 👋 Hi, I’m mahdi
+- 👀 I’m interested in Python, machine learning
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on HTML,python,Linux
+- 💞️ I’m looking to collaborate on python projects
