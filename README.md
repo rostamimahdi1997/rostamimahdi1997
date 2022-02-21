@@ -1,4 +1,2 @@
-- 👋 Hi, I’m mahdi
-- 👀 I’m interested in Python, machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on python projects
+Interested in Python, ML
+I’m looking to collaborate on Python and ML projects
