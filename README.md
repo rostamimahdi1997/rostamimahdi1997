@@ -7,6 +7,8 @@ I'm a Data Science and AI enthusiast who likes to learn about new things and exp
 - Data Science
 - Machine Learning
 - Computer Vision
+- BlockChain
+- Web3
 
 <!--
 **rostamimahdi1997/rostamimahdi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
